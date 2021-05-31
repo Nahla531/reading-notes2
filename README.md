@@ -1,6 +1,16 @@
-# this is aheading 
-### another thing here
+# todo app
 
-**this is abold**
+## requriemnts
 
-~~this is astrikthrough~~
+- vscode
+- terminal to run the code
+
+
+1. one
+2. two
+
+
+
+
+
+
